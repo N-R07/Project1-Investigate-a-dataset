@@ -1,5 +1,5 @@
 # Project1-Investigate-a-dataset
-In this project, we will analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy and pandas to make our analysis easier.
+This project is done as part of Udacity Data Analyst Nanodegree Program. In this project, we will analyze a dataset and then communicate our findings about it. We will use the Python libraries NumPy and pandas to make our analysis easier.
 
 Dataset:
 I have selected TMDb movie data originally from kaggle for this Data Analysis project. This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters. There are some odd characters in the ‘cast’ column. The final two columns ending with “_adj” show the budget and revenue of the associated movie in terms of 2010 dollars, accounting for inflation over time.
